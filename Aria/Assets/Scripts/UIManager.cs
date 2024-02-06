@@ -1,7 +1,7 @@
 using UnityEngine;
-using System Collections;
+using System.Collections;
 using VIDE_Data;
-using UnityEngine.UI
+using UnityEngine.UI;
 
 public class UIManager : MonoBehaviour {
 
