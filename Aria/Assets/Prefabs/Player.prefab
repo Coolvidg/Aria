@@ -280,8 +280,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ac112d61e5efe984db5d0109c3f0bb15, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _maxSpeed: 11
-  _maxAcceleration: 12
+  _maxSpeed: 8
+  _maxAcceleration: 10
   _maxAirAcceleration: 10
 --- !u!114 &6417033409368583444
 MonoBehaviour:
@@ -307,12 +307,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71d2549f16164694aa4f4f47579c5c80, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _jumpHeight: 5
+  _jumpHeight: 6
   _maxAirJumps: 0
   _downwardMovementMultiplier: 3.77
   _upwardMovementMultiplier: 1.93
-  _coyoteTime: 0.25
-  _jumpBufferTime: 0.25
+  _coyoteTime: 0.3
+  _jumpBufferTime: 0.3
 --- !u!114 &412983174582745452
 MonoBehaviour:
   m_ObjectHideFlags: 0
